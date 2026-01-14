@@ -190,7 +190,7 @@ Sets the active site for bench commands
 
 ## Step 30
 ```bash
-bench get-app erpnext --branch version-15
+bench get-app erpnext --branch version-16
 ```
 Downloads ERPNext app from GitHub
 
